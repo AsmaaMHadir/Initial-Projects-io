@@ -1,4 +1,4 @@
-# Computer Scientist 
+# Computer Scientist  
 
 ### Technical Skills: Python, Azure, T-SQL, PowerBI, Django/Flask
 
