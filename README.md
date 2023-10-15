@@ -1,4 +1,4 @@
-# Computer Scientist, Aspiring Data Scientist & Machine Learning Engineer 
+# Computer Scientist 
 
 ### Technical Skills: Python, Azure, T-SQL, PowerBI, Django/Flask
 
@@ -11,5 +11,4 @@
 - Tomorrow's Leaders Undergraduate Full Scholarship | the US Department of State & the Middle East Initiative Partnership (_2018_).
 - AL Ghurair STEM Scholars Program | Alghurair Foundation UAE (_2018_)
   
-
-
+## Projects
