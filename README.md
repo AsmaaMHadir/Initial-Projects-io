@@ -14,23 +14,19 @@
   
 ## Projects
 - [Machine Learning](#machine-learning)
+    - E-Shopping Recommendation System
+    - Math Grade Predictor
+    - Therapy Session Recording Transcipt Summarization ( NLP )
 - [Web and API Development ](#web-and-api-development)
+    - Confluence AI-Powered Keywords Directory
+    - Tasks API
 - [Data Analysis](#data-analysis)
 
 
 ### Machine Learning 
-   - Briefly introduce the topic
-   - Provide an overview of what the outline will cover
 
 ###  Web and API Development 
-   - Subsection 1
-     - Detail 1
-     - Detail 2
-   - Subsection 2
-     - Detail 1
-     - Detail 2
+
     
 ###  Data Analysis 
-   - Subsection 1
-     - Detail 1
-     - Detail 2
+   
