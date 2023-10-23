@@ -1,6 +1,7 @@
 # Computer Scientist  
 
-### Technical Skills: Python, Azure, T-SQL, PowerBI, Django/Flask
+### Technical Skills: Python, JavaScript, Django RESTful, ReactJs, Flask, Microsoft Azure, T-SQL, PowerBI
+### Languages: Arabic, English, French
 
 ## Education
 - B.S., Computer Science | The American University of Beirut (_August 2022_)
@@ -12,3 +13,27 @@
 - AL Ghurair STEM Scholars Program | Alghurair Foundation UAE (_2018_)
   
 ## Projects
+- [Machine Learning](#i-machine-learning)
+- [Web & API Development ](#ii-web-&-api-development)
+- [Data Analysis](#iii-data-analysis)
+
+
+
+
+
+# I. Machine Learning 
+   - Briefly introduce the topic
+   - Provide an overview of what the outline will cover
+
+# II. Web  & API Development 
+   - Subsection 1
+     - Detail 1
+     - Detail 2
+   - Subsection 2
+     - Detail 1
+     - Detail 2
+    
+# II. Data Analysis 
+   - Subsection 1
+     - Detail 1
+     - Detail 2
