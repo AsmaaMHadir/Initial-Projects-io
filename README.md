@@ -21,11 +21,11 @@
 
 
 
-# I. Machine Learning 
+### I. Machine Learning 
    - Briefly introduce the topic
    - Provide an overview of what the outline will cover
 
-# II. Web  & API Development 
+### II. Web  & API Development 
    - Subsection 1
      - Detail 1
      - Detail 2
@@ -33,7 +33,7 @@
      - Detail 1
      - Detail 2
     
-# II. Data Analysis 
+### II. Data Analysis 
    - Subsection 1
      - Detail 1
      - Detail 2
