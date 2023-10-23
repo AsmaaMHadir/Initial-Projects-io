@@ -18,7 +18,7 @@
     - Math Grade Predictor
     - Therapy Session Recording Transcipt Summarization ( NLP )
 - [Web and API Development ](#web-and-api-development)
-    - Confluence AI-Powered Keywords Directory
+    - KeyWise: Confluence AI-Powered Keywords Directory
     - Tasks API
 - [Data Analysis](#data-analysis)
 
