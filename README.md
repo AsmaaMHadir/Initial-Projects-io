@@ -14,7 +14,7 @@
   
 ## Projects
 - [Machine Learning](#machine-learning)
-- [Web & API Development ](#web-&-api-development)
+- [Web and API Development ](#web-and-api-development)
 - [Data Analysis](#data-analysis)
 
 
@@ -22,7 +22,7 @@
    - Briefly introduce the topic
    - Provide an overview of what the outline will cover
 
-###  Web & API Development 
+###  Web and API Development 
    - Subsection 1
      - Detail 1
      - Detail 2
