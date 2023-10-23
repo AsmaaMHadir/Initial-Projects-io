@@ -2,7 +2,7 @@
 
 ### Technical Skills: Python, JavaScript, Django RESTful, ReactJs, Flask, Microsoft Azure, T-SQL, PowerBI
 ### Languages: Arabic, English, French
-
+ 
 ## Education
 - B.S., Computer Science | The American University of Beirut (_August 2022_)
 
