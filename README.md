@@ -5,7 +5,7 @@
  
 ## Education
 - B.S., Computer Science | The American University of Beirut (_August 2022_)
-
+ 
 ## Scholarships & Fellowships
 - Fellow | Clinton Global Initiative University (CGI U) (_2021_)
 - Fortis Fellow | Future Global Leaders Foundation (_2019_)
