@@ -22,7 +22,7 @@
    - Briefly introduce the topic
    - Provide an overview of what the outline will cover
 
-###  Web  & API Development 
+###  Web & API Development 
    - Subsection 1
      - Detail 1
      - Detail 2
