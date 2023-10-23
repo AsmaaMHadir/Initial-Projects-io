@@ -14,8 +14,8 @@
   
 ## Projects
 - [Machine Learning](#i-machine-learning)
-- [Web & API Development ](#ii-web-&-api-development)
-- [Data Analysis](#iii-data-analysis)
+- [Web & API Development ](#i-web-&-api-development)
+- [Data Analysis](#i-data-analysis)
 
 
 
