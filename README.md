@@ -13,19 +13,16 @@
 - AL Ghurair STEM Scholars Program | Alghurair Foundation UAE (_2018_)
   
 ## Projects
-- [Machine Learning](#i-machine-learning)
-- [Web & API Development ](#i-web-&-api-development)
-- [Data Analysis](#i-data-analysis)
+- [Machine Learning](#machine-learning)
+- [Web & API Development ](#web-&-api-development)
+- [Data Analysis](#data-analysis)
 
 
-
-
-
-### I. Machine Learning 
+### Machine Learning 
    - Briefly introduce the topic
    - Provide an overview of what the outline will cover
 
-### II. Web  & API Development 
+###  Web  & API Development 
    - Subsection 1
      - Detail 1
      - Detail 2
@@ -33,7 +30,7 @@
      - Detail 1
      - Detail 2
     
-### II. Data Analysis 
+###  Data Analysis 
    - Subsection 1
      - Detail 1
      - Detail 2
